@@ -1,0 +1,10 @@
+flask
+flask-sqlalchemy
+flask-cors
+flask-restx
+flask-mail
+PyJWT
+python-dotenv
+pymysql
+streamlit
+plotly
